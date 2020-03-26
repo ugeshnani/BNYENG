@@ -95,9 +95,10 @@ class ESGDataMapper:
                             row_index += 1
                         f.close()
             filename = filename.replace(".csv", '')
-            print(json_file_location+"//json//"+filename+".json")
-            with open(json_file_location+"//json//"+filename+".json", "w") as outfile:
+           # print(json_file_location+"//json//"+filename+".json")
+            with open(json_file_location+filename+".json", "w") as outfile:
                 outfile.write(esg_tree.to_json(with_data=True))
+            esg_tree.save2file(json_file_location+filename+".txt")
             return esg_tree.to_json(with_data=True)
         except OSError:
             print("Path not found exception")

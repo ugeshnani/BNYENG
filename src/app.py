@@ -23,11 +23,11 @@ def construct_tree():
 @app.route('/GET_DATA', methods=['GET'])
 def get_data():
     esgdata = ESGData()
-    # file_name = request.form.get('fileName')
+    name = request.form.get('fileName')
     data_map = DataMap("../Config/ConfigFile.properties")
     json_file_location = data_map.get_json_file_location()
     print(json_file_location)
-    return esgdata.get_data(json_file_location, file_name='ESG-Master-Mapping_1-0.json')
+    return esgdata.get_data(json_file_location, file_name='ESG-Master-Mapping_1-0.json', name = name)
 
 
 # except Exception as e:
