@@ -51,16 +51,11 @@ class ESGData:
 
     def walk(self, node, name):
         for k, v in node.items():
-            print(type(v))
-            print(k == "Environment")
-            print("{0} : {1}".format(k, v))
-            if k == "Environment":
+            if k == name:
                 res[k] = v
-                print(res)
-                print("inside found########################")
                 break
             elif isinstance(v, dict):
-                self.walk(v,name)
+                self.walk(v, name)
             elif isinstance(v, list):
                 for value in v:
                     self.walk(value, name)
