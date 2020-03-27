@@ -1,4 +1,5 @@
 from flask import Flask, request
+
 from src.configmain import DataMap
 from src.services.ESGAPIService import ESGData
 from src.services.ESGservice import ESGDataMapper
@@ -11,7 +12,7 @@ def start():
     return "Welcome to home page"
 
 
-@app.route('/ESG', methods=['GET'])
+@app.route('/ESG', methods=['POST'])
 def construct_tree():
     esgDataMapper = ESGDataMapper()
     data_map = DataMap("../Config/ConfigFile.properties")
@@ -23,16 +24,12 @@ def construct_tree():
 @app.route('/GET_DATA', methods=['GET'])
 def get_data():
     esgdata = ESGData()
-    name = request.form.get('fileName')
+    name = request.args.get('nodeKey')
     data_map = DataMap("../Config/ConfigFile.properties")
     json_file_location = data_map.get_json_file_location()
     print(json_file_location)
-    return esgdata.get_data(json_file_location, file_name='ESG-Master-Mapping_1-0.json', name = name)
+    return esgdata.get_data(json_file_location, file_name='ESG-Master-Mapping_1-0.txt', name=name)
 
-
-# except Exception as e:
-#     print(e)
-#     return "An error occurred while construct tree"
 
 
 if __name__ == "__main__":
