@@ -1,0 +1,192 @@
+Eagle ESG Pillar,Category #,Eagle ESG Categories,Eagle ESG Sub-categories,Arabesque Sustainability Features,MSCI Themes and Key Issues,Vigeo Domains and Components,UN SDG Factors,SASB Materiality
+Environment,Category 1,RESOURCE,(A) Biodiversity,Environmental Stewardship,Biodiversity & Land Use,ENV 1.4 - Protection of Biodiversity,"SDG_13 - Climate Action
+SDG_14 - Life Below Water
+SDG_15 - Life on Land",
+Environment,Category 1,RESOURCE,(B) Raw Materials,Resource Use,Raw Material Sourcing,,SDG_17 - Partnerships for the Goals,
+Environment,Category 1,RESOURCE,(C) Water,"Resource Use
+Water","Raw Material Sourcing
+Water Stress",ENV 2.1 - Protection of Water Resources,"SDG_6 - Clean Water & Sanitation
+SDG_13 - Climate Action
+SDG_14 - Life Below Water",
+Environment,Category 2,INNOVATION,"(A) Strategy
+",Environmental Solutions,"Opportunities in Clean Tech
+Opportunities in Green Building
+","ENV 1.1 - Environmental Strategy and Eco-Design
+ENV 1.3 - Development of Green Products and Services","SDG_7 - Affordable & Clean Energy
+SDG_13 - Climate Action",
+Environment,Category 2,INNOVATION,(B) Renewable Energy,,Opp’s in Renewable Energy,,SDG_13 - Climate Action,
+Environment,Category 3,CLIMATE CHANGE,(A) Pollution (EMISSIONS),Emissions,Carbon Emissions,ENV 2.4 - Management of Atmospheric Emissions,SDG_13 - Climate Action,
+Environment,Category 3,CLIMATE CHANGE,(B) Pollution (ENERGY),,Product Carbon Footprint,ENV 2.2 - Minimising the Environmental Impacts from Energy Use,"SDG_7 - Affordable & Clean Energy
+SDG_11 - Sustainable Cities & Communities
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action",
+Environment,Category 3,CLIMATE CHANGE,(C) Pollution (GENERAL),,"Climate Change Vulnerability
+Toxic Emissions & Waste",ENV 2.6 - Management of Local Pollution,"SDG_11 - Sustainable Cities & Communities
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action",
+Environment,Category 3,CLIMATE CHANGE,(D) Pollution (SOIL),,"Electronic Waste
+Packaging Material & Waste","ENV 1.2 - Pollution Prevention and Control (soil, accident)","SDG_6 - Clean Water & Sanitation
+SDG_13 - Climate Action
+SDG_14 - Life Below Water
+SDG_15 - Life on Land",
+Environment,Category 4,ENVIRONMENTAL MANAGEMENT,"(A) Waste
+",Waste,Toxic Emissions & Waste,ENV 2.5 - Waste Management,"SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action
+SDG_14 - Life Below Water
+SDG_15 - Life on Land",
+Environment,Category 4,ENVIRONMENTAL MANAGEMENT,(B) Strategy,"Environmental Solutions
+Environmental Management","Opportunities in Green Building
+Opp’s in Renewable Energy
+Opportunities in Clean Tech",ENV 1.1 - Environmental Strategy and Eco-Design,SDG_13 - Climate Action,
+Environment,Category 4,ENVIRONMENTAL MANAGEMENT,(C) Impact,Environmental Management,Financing Environmental Impact,ENV 3.1 - Management of Environmental Impacts from the Use and Disposal of Products/Services ,"SDG_9 - Industry, Innovation & Infrastructure
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action",
+Environment,Category 4,ENVIRONMENTAL MANAGEMENT,"(D) Pollution (General, Emissions)",Emissions,"Carbon Emissions
+Electronic Waste
+Packaging Material & Waste
+Toxic Emissions & Waste","ENV 1.2 - Pollution Prevention and Control (soil, accident)
+ENV 2.4 - Management of Atmospheric Emissions
+ENV 2.6 - Management of Local Pollution","SDG_11 - Sustainable Cities & Communities
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action
+SDG_15 - Life on Land",
+Environment,Category 4,ENVIRONMENTAL MANAGEMENT,(E) Transportation,,,ENV 2.7 - Management of Environmental Impacts from Transportation,"SDG_9 - Industry, Innovation & Infrastructure
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action",
+Environment,Category 5,ANIMAL PRACTICES,/Eagle ESG Sub-categories-5,Environmental Stewardship,,ENV 1.5 - Animal Testing,SDG_15 - Life on Land,
+Environment,Category 6,ENVIRONMENTAL PERFORMANCE,(A) Supplier and Contractor,Environmental Management,Raw Material Sourcing,C&S 2.3 - Integration of Environmental Standards in the Supply Chain,SDG_12 - Responsible Consumption & Production ,
+Environment,Category 7,ENVIRONMENTAL DISCLOSURE,(A) Supplier and Contractor,Environmental Management,,C&S 2.3 - Integration of Environmental Standards in the Supply Chain,SDG_12 - Responsible Consumption & Production ,
+Social,Category 1,HUMAN CAPITAL,"(A) Promotion of labour relations
+",Community Relations,Labor Management,"HRS 1.1 - Promotion of Labour Relations
+HRT 2.1 - Respect for Freedom of Association and the Right to Collective Bargaining","SDG_8 - Decent Work and Economic Growth
+SDG_16 - Peace Justice and Strong Institutions",
+Social,Category 1,HUMAN CAPITAL,(B) Training,Training and Development,Human Capital Development,HRS 2.4 - Career Development and the Promotion of Employability,SDG_4 - Quality Education,
+Social,Category 1,HUMAN CAPITAL,(C) Work Environment,"Employment Quality
+Occupational Health and Safety",Health & Safety,"HRS 1.2 - Encouraging Employee Participation
+HRS 3.2 - Improvement of Health and Safety Conditions
+HRS 3.3 - Respect and Management of Working Hours","SDG_3 - Good Health & Well Being
+SDG_8 - Decent Work and Economic Growth
+SDG_10 - Reduce Inequalities",
+Social,Category 1,HUMAN CAPITAL,(D) Relations,Community Relations,,C&S 1.3 - Responsible Customer Relations,SDG_12 - Responsible Consumption & Production,
+Social,Category 2,HUMAN_RIGHTS,/Eagle ESG Sub-categories-2,"Human Rights
+Labour Rights",,"HRT 1.1 - Respect for Human Rights Standards and the Prevention of Violations
+HRT 2.5 - Elimination of Child and Forced Labour ","SDG_10 - Reduce Inequalities
+SDG_16 - Peace Justice and Strong Institutions",
+Social,Category 3,COMMUNITY,/Eagle ESG Sub-categories-3,"Product Access
+Community Relations","Human Capital Development
+Access to Communications
+Access to Finance
+Access to Health Care
+Opp’s in Nutrition & Health","C&S 1.3 - Responsible Customer Relations
+CIN 1.1 - The Promotion of Local Social and Economic Development
+CIN 2.1 - Management of the Societal Impacts of the Company’s Products and/or Services","SDG_1 - No Poverty
+SDG_2 - Zero Hunger
+SDG_3 - Good Health & Well Being
+SDG_5 - Gender Equality
+SDG_6 - Clean Water & Sanitation
+SDG_11 - Sustainable Cities & Communities
+SDG_12 - Responsible Consumption & Production
+SDG_16 - Peace Justice and Strong Institutions
+SDG_17 - Partnerships for the Goals",
+Social,Category 4,SUPPLY_CHAIN,"(A) Labour rights
+
+","Human Rights
+Labour Rights",Supply Chain Labor Standards,C&S 2.4 - Integration of Labour Standards in the Supply Chain,"SDG_8 - Decent Work and Economic Growth
+SDG_10 - Reduce Inequalities
+SDG_16 - Peace Justice and Strong Institutions",
+Social,Category 4,SUPPLY_CHAIN,(B) Relations,,Controversial Sourcing,C&S 2.4 - Integration of Labour Standards in the Supply Chain,"SDG_8 - Decent Work and Economic Growth
+SDG_10 - Reduce Inequalities
+SDG_16 - Peace Justice and Strong Institutions
+SDG_17 - Partnerships for the Goals",
+Social,Category 4,SUPPLY_CHAIN,(C) Environment,,Controversial Sourcing,C&S 2.3 - Integration of Environmental Standards in the Supply Chain,"SDG_12 - Responsible Consumption & Production
+SDG_16 - Peace Justice and Strong Institutions",
+Social,Category 5,DISCRIMINATION,/Eagle ESG Sub-categories-5,Diversity,,HRT 2.4 - Prevention of Discrimination and the Promotion of Diversity ,"SDG_5 - Gender Equality
+SDG_8 - Decent Work and Economic Growth
+SDG_10 - Reduce Inequalities",
+Social,Category 6,DIVERSITY,/Eagle ESG Sub-categories-6,Diversity,,HRT 2.4 - Prevention of Discrimination and the Promotion of Diversity ,"SDG_5 - Gender Equality
+SDG_8 - Decent Work and Economic Growth
+SDG_10 - Reduce Inequalities",
+Social,Category 7,POL_CONTRIB,/Eagle ESG Sub-categories-7,Business Ethics,,,SDG_16 - Peace Justice and Strong Institutions,
+Social,Category 8,HEALTH_SAFETY,"(A) Human Capital
+",Occupational Health and Safety,Health & Demographic Risk,HRS 3.2 - Improvement of Health and Safety Conditions,SDG_3 - Good Health & Well Being,
+Social,Category 8,,(B) Product,Product Quality and Safety,"Product Safety & Quality
+Chemical Safety",C&S 1.1 - Product Safety,"SDG_3 - Good Health & Well Being
+SDG_12 - Responsible Consumption & Production",
+Social,Category 9,COMPENSATION,/Eagle ESG Sub-categories-9,Compensation,,HRS 3.1 - Quality of Remuneration Systems,SDG_8 - Decent Work and Economic Growth,
+Social,Category 10,PRODUCT,(A) Health and Safety,Product Quality and Safety,"Product Safety & Quality
+Chemical Safety",C&S 1.1 - Product Safety,"SDG_3 - Good Health & Well Being
+SDG_12 - Responsible Consumption & Production ",
+Social,Category 10,PRODUCT,(B) Impact,,"Health & Demographic Risk
+Privacy & Data Security
+Responsible Investment
+","CIN 2.1 - Management of the Societal Impacts of the Company’s Products and/or Services
+ENV 3.1 - Management of Environmental Impacts from the Use and Disposal of Products/Services","SDG_9 - Industry, Innovation & Infrastructure
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action",
+Social,Category 10,PRODUCT,(C) Environment focus,,Chemical Safety,"ENV 1.3 - Development of Green Products and Services
+ENV 3.1 - Management of Environmental Impacts from the Use and Disposal of Products/Services","SDG_7 - Affordable & Clean Energy
+SDG_9 - Industry, Innovation & Infrastructure
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action",
+Governance,Category 1,MANAGEMENT,/Eagle ESG Sub-categories-1,Corporate Governance,"Accounting
+Financial System Instability",,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 2,SHAREHOLDERS,"(A) General
+",Corporate Governance,Accounting,,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 2,,(B) Voting,,,CGV 3.1 - Shareholders,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 3,CSR,/Eagle ESG Sub-categories-3,,,,"SDG_1 - No Poverty
+SDG_2 - Zero Hunger
+SDG_3 - Good Health & Well Being
+SDG_4 - Quality Education
+SDG_5 - Gender Equality
+SDG_6 - Clean Water & Sanitation
+SDG_7 - Affordable & Clean Energy
+SDG_8 - Decent Work and Economic Growth
+SDG_9 - Industry, Innovation & Infrastructure
+SDG_10 - Reduce Inequalities
+SDG_11 - Sustainable Cities & Communities
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action
+SDG_14 - Life Below Water
+SDG_15 - Life on Land
+SDG_16 - Peace Justice and Strong Institutions
+SDG_17 - Partnerships for the Goals",
+Governance,Category 4,EXEC_COMP,/Eagle ESG Sub-categories-4,"Compensation
+Transparency",Pay,CGV 4.1 - Responsible Executive Remuneration,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 5, BOARD,"(A) Responsible board
+",Corporate Governance,Board,CGV 1.1 - Responsible Board Organisation and Practices,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 5,,(B) Diversity,,,,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 6,BUS_ETHICS,"(A) Corruption
+
+",Business Ethics,"Business Ethics
+Corruption & Instability",C&S 3.1 - Prevention of Corruption,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 6,BUS_ETHICS,(B) Lobbying,,,C&S 3.3 - Responsible Lobbying,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 6,BUS_ETHICS,(C) Anti-competitive practices,,Anti-Competitive Practices,C&S 3.2 - Prevention of Anti-Competitive Practices,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 7,FORENSIC,/Eagle ESG Sub-categories-7,Forensic Accounting,,CGV 2.1 - Audit and Internal Controls,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 8,CAP_STRUCTURE,/Eagle ESG Sub-categories-8,Capital Structure,Ownership,,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 9,PHILANTHROPY,/,,,CIN 2.2 - Corporate Philanthropy,"SDG_1 - No Poverty
+SDG_2 - Zero Hunger
+SDG_3 - Good Health & Well Being
+SDG_4 - Quality Education
+SDG_5 - Gender Equality
+SDG_6 - Clean Water & Sanitation
+SDG_7 - Affordable & Clean Energy
+SDG_8 - Decent Work and Economic Growth
+SDG_9 - Industry, Innovation & Infrastructure
+SDG_10 - Reduce Inequalities
+SDG_11 - Sustainable Cities & Communities
+SDG_12 - Responsible Consumption & Production
+SDG_13 - Climate Action
+SDG_14 - Life Below Water
+SDG_15 - Life on Land
+SDG_16 - Peace Justice and Strong Institutions
+SDG_17 - Partnerships for the Goals",
+Governance,Category 10,TRANSPARENT INFORMATION,(A) Customers,,,"C&S 1.1 - Product Safety
+C&S 1.2 - Information to Customers
+",SDG_12 - Responsible Consumption & Production,
+Governance,Category 10,TRANSPARENT INFORMATION,(B) Lobbying,,,,SDG_16 - Peace Justice and Strong Institutions,
+Governance,Category 10,TRANSPARENT INFORMATION,(C) Shareholders,Transparency,"Accounting
+Tax Transparency
+Financial System Instability","CGV 3.1 - Shareholders
+HRS 2.3 - Responsible Management of Reorganisations",SDG_16 - Peace Justice and Strong Institutions,
+,,,,,,,,
+,,,,,,,CSR and Corporate Philanthropy can impact any of the 17 UN SDG goals,
