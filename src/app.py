@@ -34,4 +34,4 @@ def get_data():
 
 if __name__ == "__main__":
     app.secret_key = 'mysecret'
-    app.run(host="localhost", port=6007, debug=False)
+    app.run(host="localhost", port=6008, debug=False)
